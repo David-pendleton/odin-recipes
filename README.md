@@ -1,1 +1,2 @@
 # odin-recipes
+My current objective is to create a cooking recipe website. by doing this i will show how to add text,hypertext links and images to a webpage. i will also demonstrate how to create a basic wesbite usual visual studio.
